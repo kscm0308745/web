@@ -1,0 +1,1 @@
+"use strict";!function(o){o(function(){o("#button").on("click",function(n){!function(){o("select[name='company']").val();o("#code").val()||(o("#error_msg").text("请输入快递单号!!!"),o("#myModal").modal())}()})})}((window,document,$));
